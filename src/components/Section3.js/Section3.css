@@ -1,0 +1,27 @@
+.span3 {
+  font-size: 50px;
+  color: #00afbd;
+}
+.spanlist {
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #212d4d;
+  margin: 10px 0;
+  display: inline-block;
+}
+.listdiv {
+  width: 300px;
+  height: 300px;
+}
+.messgdiv {
+  width: 100px;
+  background-color: #213d4d;
+  font-size: 20px;
+  color: white;
+  padding: 50px !important;
+}
+
+.listitems {
+  font-size: 20px;
+}

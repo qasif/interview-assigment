@@ -1,0 +1,30 @@
+.maindiv {
+  background-color: white;
+  text-align: center;
+}
+.spansec5 {
+  font-size: 3rem;
+  color: #00afbd;
+  font-weight: bold;
+}
+.div3 {
+  width: 150px;
+  height: 100px;
+  background-color: white;
+  border: 7px gray;
+}
+
+.span2 {
+  font-size: 20px;
+  color: #00afbd;
+  margin-top: 5px;
+}
+.image {
+  height: 50px;
+  width: 50px;
+}
+.lastspan {
+  margin-top: 40px;
+  font-size: 30px;
+  color: #00afbd;
+}

@@ -1,0 +1,40 @@
+.background {
+  background: #213d4d;
+  text-align: center;
+}
+.h1size {
+  font-size: 5rem;
+  color: #00afbd;
+  font-weight: bold;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.pStyle {
+  font-size: 1.7rem;
+  color: #00afbd;
+}
+.span {
+  color: red;
+  font-size: 3rem;
+}
+.parentdiv {
+  border-radius: 100px;
+  background-color: #00afbd;
+  width: 200px;
+  height: 200px;
+}
+.para2 {
+  color: #00afbd;
+  font-size: 25px;
+}
+
+.fdiv {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.pluslogo {
+  font-size: 40px;
+  color: white;
+}

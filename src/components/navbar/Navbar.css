@@ -1,0 +1,27 @@
+.link {
+  color: white;
+  font-weight: bold;
+}
+
+.link:hover {
+  color: grey;
+}
+
+.active {
+  color: #8F0B2C;
+}
+.paragraph {
+  font-size: 4rem;
+  font-family: tahoma, tahoma-w01-regular, tahoma-w02-regular,
+    tahoma-w10-regular, tahoma-w15--regular, tahoma-w99-regular, sans-serif;
+  background: transparent;
+  border: 0;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  vertical-align: baseline;
+  font-weight: bold;
+  letter-spacing: normal;
+  line-height: normal;
+  color: white;
+}

@@ -1,0 +1,52 @@
+.h22main {
+  font-size: 70px;
+  color: #00afbd;
+}
+.maindiv {
+  background-color: whitesmoke;
+  text-align: center;
+}
+.p2 {
+  font-size: 30px;
+  color: #00afbd;
+  font-weight: 400;
+}
+
+.carddiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+  border: 2px solid gray;
+  box-shadow: 1px 1px 10px gray;
+}
+
+.imgdiv img {
+  width: 86px;
+  height: 86px;
+}
+
+.span {
+  color: #00afbd;
+  font-size: medium;
+  font-weight: bold;
+}
+.maindiv2 {
+  box-shadow: whitesmoke;
+}
+.span2 {
+  color: #00afbd;
+  font-size: 28px;
+}
+.img1 {
+  width: 600px;
+  height: 246px;
+}
+.dflex2 {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+}
+

@@ -1,0 +1,16 @@
+.middlesection {
+    color: white;
+    text-align: center;
+
+}
+
+.middlesection p {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.middlesection a {
+    color: white;
+    margin: 10px;
+    font-size: 20px;
+}

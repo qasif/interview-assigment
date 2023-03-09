@@ -1,0 +1,38 @@
+
+.carddiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    /* border: 2px solid gray; */
+    box-shadow: 1px 1px 10px gray;
+  }
+  
+  .imgdiv img {
+    width: 86px;
+    height: 86px;
+  }
+  
+  .spantext {
+    color: #00afbd;
+    font-size: medium;
+    font-weight: bold;
+  }
+  .maindiv2 {
+    box-shadow: whitesmoke;
+  }
+  .span2 {
+    color: #00afbd;
+    font-size: 28px;
+  }
+
+  .btn100 {
+    background-color: #00afbd;
+    color: white;
+    border: solid 1px #00afbd;
+    border-radius: 80px;
+    padding: 5px;
+  }
+  
